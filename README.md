@@ -24,3 +24,7 @@ W3Schools: https://www.w3schools.com/html/
 Codecademy: https://www.codecademy.com/learn/learn-html
 I'm excited to continue learning about HTML and other web development technologies. I hope you'll join me on this journey!
 
+
+
+https://github.com/anany057/First-Blog-Page/assets/112336313/d3970f53-4712-4779-b206-db219929d968
+
